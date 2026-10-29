@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="01_Controls\Components.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="01_Controls\Controls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="01_Controls\CustomControls.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="02_Format\GcCharMask.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="02_Format\GcComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="02_Format\GcDate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="02_Format\GcDateTime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="02_Format\GcMask.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="02_Format\GcMaskedComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="02_Format\GcNumber.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="02_Format\GcTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="02_Format\GcTime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="02_Format\GcTimeSpan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="03_Focus\Enter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="03_Focus\Tab.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="04_Input\Furigana.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="04_Input\RecommendedValue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="05_Shortcuts\SetShortcuts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="05_Shortcuts\Shortcuts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="06_Display\ActiveColor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="06_Display\Alignment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="06_Display\DisabledColor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="06_Display\Ellipsis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="06_Display\PlaceHolder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="06_Display\ReadOnlyColor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="06_Display\ShowOverflowTip.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="07_DropDown\DropDown.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="07_DropDown\DropDownCalendar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="07_DropDown\DropDownDateTimePicker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="08_SideButton\DropDownButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="08_SideButton\SideButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="08_SideButton\SpinBehavior.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="08_SideButton\SpinButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="08_SideButton\SymbolButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="09_GcComboBox\AutoComplete.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="09_GcComboBox\AutoFilter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="09_GcComboBox\ComboMultiColumns.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="09_GcComboBox\TextFormat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="10_GcListBox\ListMultiColumns.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="11_Validate\InvalidInput.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="11_Validate\MinMax.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="11_Validate\Validator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="12_Address\GcAddress.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="12_Address\GcAddressBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="12_Address\GcJpAddress.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="12_Address\GcPostal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="13_Touch\ContextMenuScale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="13_Touch\DropDownScale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="13_Touch\Gripper.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="13_Touch\TouchKeyboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="13_Touch\TouchToolBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="14_GcSoftKeyboard\Appearance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="14_GcSoftKeyboard\KeyLayout.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="15_Sample\BomEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="15_Sample\RegistEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DemoBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DemoBase_settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FirstViewPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
