@@ -1,7 +1,7 @@
 # InputMan for Windows Forms サンプル
 InputMan for Windows Formsは、入力作業の効率アップに威力を発揮する、テキスト、マスク、日付、数値などの目的毎に最適化された25種類のコンポーネントから構成された実用性の高いパッケージです。さまざまなアプリケーション開発に 本製品をご使用いただければ幸いです。
 
-<img width="1010" height="761" alt="demo-InputMan" src="https://github.com/user-attachments/assets/abb46c8a-1d00-44d0-9c7f-01666570a929" />
+<img width="1010" height="761" alt="image" src="https://github.com/user-attachments/assets/e8e28bd7-2e68-42e5-9406-e81debe34a20" />
 
 ### コントロール一覧
 - 製品で提供している入力コントロール、コンポーネント、カスタムサンプル集で提供している用途別に機能を特化するために作成した継承コントロールを紹介しています。
